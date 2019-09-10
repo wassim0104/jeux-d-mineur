@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1524653569 source:c:\users\lenovo\desktop\wassim\je démineur\main.cpp
+	<bits/stdc++.h>
+	"plateau.h"
+	"joueur.h"
+
+1524657885 c:\users\lenovo\desktop\wassim\je démineur\plateau.h
+	<bits/stdc++.h>
+	"case.h"
+
+1524659108 source:c:\users\lenovo\desktop\wassim\je démineur\plateau.cpp
+	"plateau.h"
+	<bits/stdc++.h>
+	<cstdlib>
+	<time.h>
+	"case.h"
+	"joueur.h"
+
+1524611912 c:\users\lenovo\desktop\wassim\je démineur\include\case.h
+
+1524661298 source:c:\users\lenovo\desktop\wassim\je démineur\joueur.cpp
+	"plateau.h"
+	<bits/stdc++.h>
+	<cstdlib>
+	<time.h>
+	"plateau.h"
+	<cstdlib>
+	<time.h>
+	"case.h"
+	"joueur.h"
+	<stdlib.h>
+
+1524622721 c:\users\lenovo\desktop\wassim\je démineur\joueur.h
+	<bits/stdc++.h>
+
